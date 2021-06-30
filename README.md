@@ -1,5 +1,3 @@
-<img src="https://www.startpage.com/av/proxy-image?piurl=http%3A%2F%2Fi.stack.imgur.com%2F856IQ.png&sp=1624964744T746ccf9e469b1db5d969669eb45f8d696bf5228d6b972f61063b5b8d29334ab8" height="200">
-
 # Web development 101 - Hosted by Intrigia.
 Material for the summer course in web development held by [@sakerhetspolisen](https://github.com/sakerhetspolisen) (Karl Sellergren).
 

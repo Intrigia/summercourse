@@ -30,7 +30,7 @@ TIPS: Aktivera animationen genom att hålla nere musen på den blåa bollen!
 Skapa en hemsida som ska agera kundregister på ett företag. Så här ska det gå till: Användaren skriver in ett kundnummer (kundnumrena startar på 0 och fortsätter uppåt) i ett textfält som har id #clientId. När användaren sedan klickar på en knapp med id #submitBtn ska hemsidan visa kundens namn, nationalitet och födelsemånad.
 
 TIPS: Indexen i en array startar på 0 och går uppåt, du kan ha flera arrays.
-TIPS: Använd onClick.
+TIPS: Använd onClick (Vi går genom detta på nästa lektion, därav Level 3 🤪).
 
 -------------------
 
